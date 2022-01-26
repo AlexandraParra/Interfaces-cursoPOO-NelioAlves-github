@@ -1,4 +1,4 @@
-package moelo.servicos;
+package modelo.servicos;
 
 public interface ServicoPagoOnline {
 	double taxa (double valor);

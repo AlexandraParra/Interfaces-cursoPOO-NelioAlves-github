@@ -1,4 +1,4 @@
-package moelo.entidades;
+package modelo.entidades;
 
 import java.util.Date;
 

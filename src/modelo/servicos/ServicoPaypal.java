@@ -1,4 +1,4 @@
-package moelo.servicos;
+package modelo.servicos;
 
 public class ServicoPaypal implements ServicoPagoOnline {
 	

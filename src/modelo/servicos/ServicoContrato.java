@@ -1,10 +1,10 @@
-package moelo.servicos;
+package modelo.servicos;
 
 import java.util.Calendar;
 import java.util.Date;
 
-import moelo.entidades.Contrato;
-import moelo.entidades.Prestacao;
+import modelo.entidades.Contrato;
+import modelo.entidades.Prestacao;
 
 public class ServicoContrato {
 	

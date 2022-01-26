@@ -6,10 +6,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import moelo.entidades.Contrato;
-import moelo.entidades.Prestacao;
-import moelo.servicos.ServicoContrato;
-import moelo.servicos.ServicoPaypal;
+import modelo.entidades.Contrato;
+import modelo.entidades.Prestacao;
+import modelo.servicos.ServicoContrato;
+import modelo.servicos.ServicoPaypal;
 
 public class Programa {
 
